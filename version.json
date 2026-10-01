@@ -1,0 +1,50 @@
+{
+  "version": "1.1.2",
+  "date": "2026-10-01",
+  "notes": [
+    "Check for updates now works in the phone app: new versions download straight from the internet",
+    "Your data stays when you update"
+  ],
+  "history": [
+    {
+      "version": "1.1.2",
+      "date": "2026-10-01",
+      "notes": [
+        "Check for updates now works in the phone app: new versions download straight from the internet",
+        "Your data stays when you update"
+      ]
+    },
+    {
+      "version": "1.1.1",
+      "date": "2026-10-01",
+      "notes": [
+        "Fixed: the top of the app no longer hides under the phone's status bar",
+        "Status bar icons now readable (dark on light, light in dark mode)",
+        "On-device AI: picks the right model for your phone's chip, new Light option (280 MB), and shows the real reason if it can't start"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "2026-10-01",
+      "notes": [
+        "Android app: install Madcalculate on your phone",
+        "Meal reminders arrive as phone notifications, even when the app is closed",
+        "Fingerprint / Face ID with your phone's own security",
+        "Bill scanner and fonts work with no internet"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-10-01",
+      "notes": [
+        "Daily budget from your salary, fixed bills and payday",
+        "Maddy, your money buddy: understands English and Roman Urdu, logs spending, plans savings, cheap meal ideas",
+        "Bill scanner reads shop, total, VAT and date",
+        "AED, PKR, INR, USD and EUR",
+        "Account with PIN and fingerprint / Face ID",
+        "Meal reminders and spending styles",
+        "Check for updates"
+      ]
+    }
+  ]
+}
