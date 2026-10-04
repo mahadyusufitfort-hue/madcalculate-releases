@@ -1,12 +1,23 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "date": "2026-10-04",
   "notes": [
-    "Maddy's AI now runs natively on your phone's processor (Google MediaPipe), no graphics chip needed: Smart 1.5 GB or Light 520 MB, download continues if it stops",
-    "New app icon from your logo, and a new face for Maddy",
-    "Meal notifications show your logo instead of the error icon"
+    "Maddy knows 55+ UAE cafeteria and home meals: nihari, haleem, keema, rajma, Kerala meals, dosa, manakish and more",
+    "Every food answer gives 3 places to eat out and 2 things to cook, and new ideas each time",
+    "Prices checked against Dubai and Sharjah menus; set your own in Settings > Food prices",
+    "Open any saved bill and view the full photo; tap to zoom"
   ],
   "history": [
+    {
+      "version": "1.2.1",
+      "date": "2026-10-04",
+      "notes": [
+        "Maddy knows 55+ UAE cafeteria and home meals: nihari, haleem, keema, rajma, Kerala meals, dosa, manakish and more",
+        "Every food answer gives 3 places to eat out and 2 things to cook, and new ideas each time",
+        "Prices checked against Dubai and Sharjah menus; set your own in Settings > Food prices",
+        "Open any saved bill and view the full photo; tap to zoom"
+      ]
+    },
     {
       "version": "1.2.0",
       "date": "2026-10-04",
