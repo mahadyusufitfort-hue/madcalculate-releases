@@ -1,13 +1,29 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "date": "2026-10-04",
   "notes": [
-    "Maddy knows 55+ UAE cafeteria and home meals: nihari, haleem, keema, rajma, Kerala meals, dosa, manakish and more",
-    "Every food answer gives 3 places to eat out and 2 things to cook, and new ideas each time",
-    "Prices checked against Dubai and Sharjah menus; set your own in Settings > Food prices",
-    "Open any saved bill and view the full photo; tap to zoom"
+    "Real accounts: sign up and log in with email and password",
+    "Your data is saved to your own private account; nobody else can see it",
+    "Log in on a new phone and all your data comes back",
+    "Each account on a phone keeps its own data separate",
+    "Forgot password? Get a reset link by email",
+    "Quick-unlock PIN and fingerprint stay on your phone only",
+    "Fixed: numbers typed in email or password boxes no longer disappear"
   ],
   "history": [
+    {
+      "version": "1.3.0",
+      "date": "2026-10-04",
+      "notes": [
+        "Real accounts: sign up and log in with email and password",
+        "Your data is saved to your own private account; nobody else can see it",
+        "Log in on a new phone and all your data comes back",
+        "Each account on a phone keeps its own data separate",
+        "Forgot password? Get a reset link by email",
+        "Quick-unlock PIN and fingerprint stay on your phone only",
+        "Fixed: numbers typed in email or password boxes no longer disappear"
+      ]
+    },
     {
       "version": "1.2.1",
       "date": "2026-10-04",
