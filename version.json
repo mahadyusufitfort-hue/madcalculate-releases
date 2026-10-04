@@ -1,13 +1,21 @@
 {
-  "version": "1.1.4",
-  "date": "2026-10-01",
+  "version": "1.2.0",
+  "date": "2026-10-04",
   "notes": [
-    "Typing in chat: the keyboard no longer pushes the menu up or hides your last message",
-    "Maddy understands 'biryani ke ilawa', 'kuch aur batao', 'bata na' and keeps suggesting new meals",
-    "Maddy no longer confuses 'paisay' with payday",
-    "On-device AI retries with a shorter question if it fails"
+    "Maddy's AI now runs natively on your phone's processor (Google MediaPipe), no graphics chip needed: Smart 1.5 GB or Light 520 MB, download continues if it stops",
+    "New app icon from your logo, and a new face for Maddy",
+    "Meal notifications show your logo instead of the error icon"
   ],
   "history": [
+    {
+      "version": "1.2.0",
+      "date": "2026-10-04",
+      "notes": [
+        "Maddy's AI now runs natively on your phone's processor (Google MediaPipe), no graphics chip needed: Smart 1.5 GB or Light 520 MB, download continues if it stops",
+        "New app icon from your logo, and a new face for Maddy",
+        "Meal notifications show your logo instead of the error icon"
+      ]
+    },
     {
       "version": "1.1.4",
       "date": "2026-10-01",
