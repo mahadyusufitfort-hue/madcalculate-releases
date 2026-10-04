@@ -1,16 +1,19 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "date": "2026-10-04",
   "notes": [
-    "Real accounts: sign up and log in with email and password",
-    "Your data is saved to your own private account; nobody else can see it",
-    "Log in on a new phone and all your data comes back",
-    "Each account on a phone keeps its own data separate",
-    "Forgot password? Get a reset link by email",
-    "Quick-unlock PIN and fingerprint stay on your phone only",
-    "Fixed: numbers typed in email or password boxes no longer disappear"
+    "Continue with Google: sign up or log in with your Google account in one tap",
+    "Google users don't need a password; the quick-unlock PIN and fingerprint still work"
   ],
   "history": [
+    {
+      "version": "1.3.1",
+      "date": "2026-10-04",
+      "notes": [
+        "Continue with Google: sign up or log in with your Google account in one tap",
+        "Google users don't need a password; the quick-unlock PIN and fingerprint still work"
+      ]
+    },
     {
       "version": "1.3.0",
       "date": "2026-10-04",
